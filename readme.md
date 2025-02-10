@@ -3,6 +3,9 @@
 [![build-dot-net](https://github.com/mehdihadeli/movie-search-application/actions/workflows/build-dot-net.yml/badge.svg)](https://github.com/mehdihadeli/movie-search-application/actions/workflows/build-dot-net.yml)
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/mehdihadeli/movie-search-application)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/mehdihadeli/movie-search-application)
+[![Open with CodeSandbox](https://assets.codesandbox.io/github/button-edit-lime.svg)](https://codesandbox.io/p/sandbox/github/mehdihadeli/movie-search-application)
+[![Open in Codeanywhere](https://codeanywhere.com/img/open-in-codeanywhere-btn.svg)](https://app.codeanywhere.com/#https://github.com/mehdihadeli/movie-search-application)
 
 Movies Search Application is a search engine for searching movies and tv-shows with using two popular apis [TMDB](https://developers.themoviedb.org/3) and [Youtube API](https://developers.google.com/youtube/v3) for get all information about the movies and its related trailers with some other features.
 
